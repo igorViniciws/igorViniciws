@@ -14,6 +14,7 @@ Buscando oportunidades pra:
 - Aprender com os melhores e crescer na área 
 
 Como falar comigo:
-- 📧 igor.dev@email.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-USUÁRIO-AQUI)
+- 📧 igor07022008@gmail.com
+- 💼 www.linkedin.com/in/
+igor-vinicius-santos-vicente-81663128b
 - ☕ Me chama para um projeto!
