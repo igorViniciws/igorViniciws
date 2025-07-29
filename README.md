@@ -1,4 +1,4 @@
- Olá! Eu sou o Igor
+ Olá! Eu sou o Igor Vinicius
 
 💻 Técnico em Desenvolvimento de Sistemas | 17 anos na missão de virar um dev brabo  
 📚 Atualmente estudando Web Full Stack e tecnologias modernas  
