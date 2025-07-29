@@ -1,16 +1,19 @@
-## Hi there 👋
+ Olá! Eu sou o Igor
 
-<!--
-**igorViniciws/igorViniciws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Técnico em Desenvolvimento de Sistemas | 17 anos na missão de virar um dev brabo  
+📚 Atualmente estudando Web Full Stack e tecnologias modernas  
+🚀 Focado em construir projetos reais, aprender rápido e dominar o jogo do código  
 
-Here are some ideas to get you started:
+Tecnologias que tô aprendendo:
+- Mobile (em breve)
+- Pyton
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Buscando oportunidades pra:
+- Estágio em Dev
+- Projetos freelancer e colaborações open source
+- Aprender com os melhores e crescer na área 
+
+Como falar comigo:
+- 📧 igor.dev@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-USUÁRIO-AQUI)
+- ☕ Me chama para um projeto!
