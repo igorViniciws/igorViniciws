@@ -4,9 +4,20 @@
 📚 Atualmente estudando Web Full Stack e tecnologias modernas  
 🚀 Focado em construir projetos reais, aprender rápido e dominar o jogo do código  
 
-Tecnologias que tô aprendendo:
-- Mobile (em breve)
-- Pyton
+🌐 Frontend
+HTML5 CSS3 JavaScript Bootstrap React
+
+⚡ Backend
+PHP Python
+
+🗄️ Banco de Dados
+MySQL PostgreSQL
+
+📱 Mobile
+Python Flet
+
+🔧 Ferramentas
+Git VS Code GitHub
 
 Buscando oportunidades pra:
 - Estágio em Dev
